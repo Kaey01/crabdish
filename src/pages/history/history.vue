@@ -1,5 +1,5 @@
 <template>
-  <view>
+  <view class="content">
     这里是历史订单
   </view>
 </template>
