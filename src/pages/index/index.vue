@@ -21,14 +21,15 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from "vue";
+import { ref } from "vue"
 
-const title = ref('小螃蟹的私人厨房')
-const star = ref('5.0')
+const title = ref("小螃蟹的私人厨房")
+const star = ref("5.0")
 </script>
 
 <style lang="scss" scoped>
-.content {}
+.content {
+}
 .top {
   background-image: url("@/static/index/topBackground.png");
   background-size: cover;
